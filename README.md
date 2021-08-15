@@ -8,3 +8,11 @@ The project was structured having three tasks:
 3. Having three different faces of a Cube Sudoku puzzle, find them in the image, determine their configuration and then warp them to a cube.
 
 More details on the methods used are present in the [PDF file containing the documentation of the project](Extracting-visual-information-from-Sudoku-puzzles.pdf)
+
+The final results (accuracy) on the train and test data were:
+
+| Task | Train | Test |
+|------|:-----:|:----:|
+| 1    |  94%  |  96% |
+| 2    |  93%  |  95% |
+| 3    |  100% | 100% |
